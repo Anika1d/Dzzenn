@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">dzen</string>
+    <string name="hint_notification">Отметьте то, что вам интересно, чтобы настроить Дзен</string>
+    <string name="later">Позже</string>
+    <string name="next">Продолжить</string>
+</resources>
